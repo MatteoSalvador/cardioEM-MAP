@@ -1,0 +1,17 @@
+{
+"LA": {
+    "volume" : 0
+    },
+"LV": {
+    "volume" : 1    
+    },
+"RA": {
+    "volume" : 0
+    },
+"RV": {
+    "volume" : 0    
+    },
+"ARSYS": {
+    "pressure" : 1
+    }
+}
