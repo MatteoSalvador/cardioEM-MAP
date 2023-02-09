@@ -34,6 +34,6 @@ Note that also forward numerical simulations can be performed by using the Pytho
 
 ## References
 
-[1] M. Salvador, F. Regazzoni, L. Dede', A. Quarteroni. [Fast and robust parameter estimation with uncertainty quantification for the cardiac function](https://arxiv.org/abs/2210.03012). *Computer Methods and Programs in Biomedicine* (2023).
+[1] M. Salvador, F. Regazzoni, L. Dede', A. Quarteroni. [Fast and robust parameter estimation with uncertainty quantification for the cardiac function](https://www.sciencedirect.com/science/article/pii/S016926072300069X). *Computer Methods and Programs in Biomedicine* (2023).
 
 [2] F. Regazzoni, M. Salvador, L. Dede', A. Quarteroni. [A Machine Learning method for real-time numerical simulations of cardiac electromechanics](https://www.sciencedirect.com/science/article/pii/S004578252200144X). *Computer Methods in Applied Mechanics and Engineering* (2022).
